@@ -1,6 +1,6 @@
 # Lista de Pacientes Veterinaria
 
-Podes acceder al sitio haciendo click en el siguiente [link!]([https://guileless-cascaron-24bf85.netlify.app/])
+Podes acceder al sitio haciendo click en el siguiente [link!](https://guileless-cascaron-24bf85.netlify.app/)
 
 Realizado el 09/07/2023.
 
