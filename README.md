@@ -16,4 +16,4 @@ PD: Este proyecto utiliza localStorage.
 - TailwindCSS
 - Vite
 
-# [DEMO](https://guileless-cascaron-24bf85.netlify.app/)
+# [DEMO](https://vet-react-demo.netlify.app/)
